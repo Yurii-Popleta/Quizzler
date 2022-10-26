@@ -1,7 +1,7 @@
 
 #  Quizzler
 
-![Recording_AdobeExpress](https://user-images.githubusercontent.com/109367230/198093069-5841ebbc-db1a-448e-9a05-90124a023614.gif)
+![Recording-4](https://user-images.githubusercontent.com/109367230/198096610-8fb0b5fd-a7fd-4e33-a3d1-a0ad917b8319.gif)
 
 ## Our Goal.
 
