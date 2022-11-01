@@ -1,7 +1,7 @@
 
 #  Quizzler
 
-![Recording-55](https://user-images.githubusercontent.com/109367230/199280211-4f1e619d-075d-4cd0-959b-4bfbf119f32f.gif)
+![Recording-4](https://user-images.githubusercontent.com/109367230/199280542-56c2f4a9-7a69-4a96-a434-83b85333dd06.gif)
 
 ## Our Goal.
 
