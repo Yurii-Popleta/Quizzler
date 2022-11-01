@@ -14,4 +14,6 @@
 * Compare Swift Classes with Swift Structs and know when to use which.
 * Learn about Object Oriented Programming.
 * How to refactor code and stay organised.
+* Understand immutability.
+* Understand about function that can have outputs.
    
