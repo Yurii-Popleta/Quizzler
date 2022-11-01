@@ -1,7 +1,7 @@
 
 #  Quizzler
 
-![Recording-5](https://user-images.githubusercontent.com/109367230/198100028-866877b7-a0ec-46bc-9457-4bf755c82076.gif)
+![Recording-55](https://user-images.githubusercontent.com/109367230/199280211-4f1e619d-075d-4cd0-959b-4bfbf119f32f.gif)
 
 ## Our Goal.
 
@@ -23,8 +23,3 @@ You will program a trivia quiz app. If you have another field of expertise such 
 * Learn about Object Oriented Programming.
 * How to refactor code and stay organised.
    
-
-
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
